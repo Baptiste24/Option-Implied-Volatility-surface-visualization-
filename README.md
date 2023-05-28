@@ -5,7 +5,7 @@ Option Implied Volatility surface visualization
 
 
 This tool enable anyone to visualize any option's implied volatility surface through a Dash app. 
-Please save this file and go to your anaconda prompt and type "python thefilename", it should return an html link.
+Please save this file and go to your anaconda prompt and type "python thefilename", it should return a html link.
 
 This highlight the vol smile and term structure. The surface is smoothed thanks to a spline interpolator.
 An hyperplane is set to help visualize the level of vol.
